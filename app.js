@@ -1,6 +1,6 @@
 // app.js
 const express = require("express");
-const sequelize = require("./database/db.js"); // Adjust the path as necessary
+const sequelize = require("./db.js"); // Adjust the path as necessary
 require("dotenv").config();
 
 const app = express();

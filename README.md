@@ -1,8 +1,8 @@
 # LEARN by Doing, DEV.to Blogs Source Code
 
 # [How to Set Up a Node.js Express App with Sequelize and AWS MySQL RDS](https://dev.to/ahsanjutt01/how-to-set-up-a-nodejs-express-app-with-sequelize-and-aws-mysql-rds-source-code-28kj)
-## Description
-Node + Express CRUD Operations and clean Architecture
+
+# [Building a Scalable Node.Js Backend: Sequelize Models, CRUD Operations & Clean Architecture](https://dev.to/ahsanjutt01/building-a-scalable-nodejs-backend-sequelize-models-crud-operations-clean-architecture-59k6)
 
 ## Prerequisites
 List the software and tools required to run the project:
@@ -21,5 +21,3 @@ List the software and tools required to run the project:
 
 ### 3. Run project
 npm start
-
-

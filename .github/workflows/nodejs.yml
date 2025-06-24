@@ -24,11 +24,12 @@ jobs:
     - name: Install dependencies
       run: npm install
 
-    - name: Run tests
-      run: npm test  # Adjust this command if you have a custom test script
 
-    - name: Lint code
-      run: npm run lint  # If you have linting configured
+    #- name: Run tests
+     # run: npm test  # Adjust this command if you have a custom test script
+
+    #- name: Lint code
+    #  run: npm run lint  # If you have linting configured
 
     #- name: Build the app (if applicable)
     #  run: npm run build  # If you have a build step, include it

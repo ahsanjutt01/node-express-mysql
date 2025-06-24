@@ -16,7 +16,7 @@ List the software and tools required to run the project:
 - npm install
 
 
-### 2. Creat .env file
+### 2. Create .env file
 - copy .env variables to newly created .env file and set your mysql URL
 
 ### 3. Run project
